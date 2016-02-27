@@ -1,0 +1,24 @@
+So. There is this base, from which you send out rogues with preset equip and abilities. 
+They die, you get their earns. 
+Almost always end up with more. 
+Basic combat system. You eventually kill like an epic final boss. First time like 1 h, speedrun about 20 mins. + Endless mode.
+Wild animals better not get to your base.
+Creatures keep getting stronger.
+Pause option rather than turns. Just build your stuff and watch it work.
+Keep it fucking simple. No races, only humans. Racist and proud. You set hp, att, equip. General direction and go.
+Special abilities appear as you progress.
+ - crit
+ - dodge
+ 
+What about parties? Huh? I imagined it without them, but now I don't really know...
+Roguelike is all about solo, let's keep it that way.
+
+Bosses. You have to make like a super hero and send it out.
+
+Mystery chests with items. Basic for one use, epics that you get to keep.
+
+Make killing satisfying.
+
+Keep it in a grid. A huge one. There is this base pane with everything and a kind of overlook + scrollable map.
+
+This is good.
