@@ -22,3 +22,12 @@ Make killing satisfying.
 Keep it in a grid. A huge one. There is this base pane with everything and a kind of overlook + scrollable map.
 
 This is good.
+
+TODO:
+	hero stats based on terrain
+	better ui - show heroes
+	hero ai
+		search for nearby enemies
+		calculate best route
+		avoid friendy heroes
+	chests, more enemy types
